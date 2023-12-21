@@ -9,7 +9,7 @@ const graphData = {
       { id: 'theme-3', label: 'Mutable infrastructure', url: 'https://docs.aws.amazon.com/prescriptive-guidance/latest/essential-eight-maturity/theme-3.html', group: 2 },
       { id: 'theme-4', label: 'Identities', url: 'https://docs.aws.amazon.com/prescriptive-guidance/latest/essential-eight-maturity/theme-4.html', group: 2 },
       { id: 'theme-5', label: 'Data perimeter', url: 'https://docs.aws.amazon.com/prescriptive-guidance/latest/essential-eight-maturity/theme-5.html', group: 2 },
-      { id: 'theme-6', label: 'Data perimeter', url: 'https://docs.aws.amazon.com/prescriptive-guidance/latest/essential-eight-maturity/theme-6.html', group: 2 },
+      { id: 'theme-6', label: 'Backups', url: 'https://docs.aws.amazon.com/prescriptive-guidance/latest/essential-eight-maturity/theme-6.html', group: 2 },
       { id: 'theme-7', label: 'Logging and monitoring', url: 'https://docs.aws.amazon.com/prescriptive-guidance/latest/essential-eight-maturity/theme-7.html', group: 2 },
       { id: 'theme-8', label: 'Mechanisms for manual processes', url: 'https://docs.aws.amazon.com/prescriptive-guidance/latest/essential-eight-maturity/theme-8.html', group: 2 },
 
