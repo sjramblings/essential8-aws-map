@@ -7,7 +7,7 @@ const ForceGraph = ({ data }) => {
     useEffect(() => {
         // Setup force graph configuration
         const forceGraph = fgRef.current;
-        forceGraph.d3Force('charge').strength(-300); // Increased repulsive force
+        forceGraph.d3Force('charge').strength(-200); // Increased repulsive force
         // You can also adjust other forces as needed
     }, []);
 
@@ -23,7 +23,7 @@ const ForceGraph = ({ data }) => {
         ctx.textAlign = 'center';
         ctx.textBaseline = 'middle';
         ctx.fillStyle = 'black';
-        ctx.fillText(node.id, node.x, node.y - 15);
+        ctx.fillText(node.label, node.x, node.y - 15);
     };
 
     const handleNodeClick = node => {
