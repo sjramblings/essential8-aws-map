@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mymindmapapp-dev-102812-authRole",
+      "UnauthRoleArn": "arn:aws:iam::593960257195:role/amplify-mymindmapapp-dev-102812-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::593960257195:role/amplify-mymindmapapp-dev-102812-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-mymindmapapp-dev-102812-deployment",
+      "UnauthRoleName": "amplify-mymindmapapp-dev-102812-unauthRole",
+      "StackName": "amplify-mymindmapapp-dev-102812",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:593960257195:stack/amplify-mymindmapapp-dev-102812/7302d810-9f8f-11ee-88ca-0a6ba0dac335",
+      "AmplifyAppId": "d2jvyii1mvh4a1"
+    }
+  }
+}
